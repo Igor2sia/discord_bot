@@ -1,1 +1,1 @@
-worker:  python discord memes bot.py
+worker: discord memes bot.py
